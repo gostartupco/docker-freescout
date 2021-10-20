@@ -1,5 +1,7 @@
 #!/usr/bin/with-contenv bash
 
+echo 'nameserver 8.8.8.8' > /etc/resolv.conf
+
 source /assets/functions/00-container
 prepare_service
 PROCESS_NAME="freescout"
