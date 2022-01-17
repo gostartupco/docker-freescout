@@ -1,3 +1,66 @@
+## 1.15.26 2022-01-07 <dave at tiredofit dot ca>
+
+   ### Added
+      - Rebuild image to support base level updates, sepcifically to allow MySQL 5.7 to operate
+
+
+## 1.15.25 2022-01-05 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.27
+
+
+## 1.15.24 2021-12-31 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.26
+
+
+## 1.15.23 2021-12-26 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.25
+
+
+## 1.15.22 2021-12-13 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.24
+
+
+## 1.15.21 2021-12-03 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.23
+
+
+## 1.15.20 2021-11-30 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.22
+
+   ### Changed
+      - Fix to artisan alias command
+
+
+## 1.15.19 2021-11-15 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.21
+
+
+## 1.15.18 2021-10-21 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.20
+
+
+## 1.15.17 2021-10-20 <dave at tiredofit dot ca>
+
+   ### Added
+      - Freescout 1.7.19
+
+
 ## 1.15.16 2021-10-14 <dave at tiredofit dot ca>
 
    ### Added
